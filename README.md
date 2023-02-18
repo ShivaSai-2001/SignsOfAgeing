@@ -15,7 +15,8 @@ The following pre-processing was applied to each image:
 No image augmentation techniques were applied.
 ====================
 
-To run this project install Jupyter Notebook or Run this project in Google Colab Notebook.
+To run this project install Python complier called Jupyter Notebbok or Run this project in Google Colab Notebook.
+Languages : Python
 ====================
 
 This SignsOfAgeing will be used for clients to identify puffyeyes, wrinkles and darkspots on the input human face easily.
