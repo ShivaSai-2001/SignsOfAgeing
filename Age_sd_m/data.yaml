@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 5
+names: ['blackspot', 'darkspot', 'puffyeye', 'puffyeyes', 'wrinkle']
